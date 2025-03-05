@@ -27,3 +27,4 @@ C:\Users\welcome\source\repos\ASP-Empty1\MVC01G02\obj\Debug\net8.0\refint\MVC01G
 C:\Users\welcome\source\repos\ASP-Empty1\MVC01G02\obj\Debug\net8.0\MVC01G02.pdb
 C:\Users\welcome\source\repos\ASP-Empty1\MVC01G02\obj\Debug\net8.0\MVC01G02.genruntimeconfig.cache
 C:\Users\welcome\source\repos\ASP-Empty1\MVC01G02\obj\Debug\net8.0\ref\MVC01G02.dll
+C:\Users\welcome\source\repos\ASP-Empty1\MVC01G02\obj\Debug\net8.0\MVC01G02.sourcelink.json
